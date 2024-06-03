@@ -1,0 +1,5 @@
+1. Leia e armazene o número para multiplicar por 9.
+2. Subtraia N-1 e armazene com o primeiro digito N1.
+3.Subtrair o 10-N e armazenar como o segundo digito N2.
+4.Realizar N1 . 10 + N2 e armazene como resultado final R.
+5. Mostre R e finalize.
